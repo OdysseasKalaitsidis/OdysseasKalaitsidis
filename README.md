@@ -1,6 +1,4 @@
-# Hi, I'm Odysseas 
-
-Backend & distributed systems focused developer, currently in my 3rd year of Informatics at Ionian University (GPA 8.9/10).
+Backend & distributed systems focused developer, currently in my 3rd year of Informatics at Ionian University.
 
 I like building things that run in production, not just demos.
 
