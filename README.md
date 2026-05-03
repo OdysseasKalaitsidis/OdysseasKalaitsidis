@@ -9,7 +9,7 @@ I like building things that run in production, not just demos.
 
 ## Projects
 
-### [MyIonio](https://github.com/OdysseasKalaitsidis/Myionio_opensource)
+### [MyIonio](https://github.com/OdysseasKalaitsidis/Myionio_monorepo)
 Academic course management system for Ionian University — 105+ daily active users.  
 Stack: .NET 8 · React/TypeScript · PostgreSQL
 
