@@ -30,7 +30,8 @@ CI/CD with automated testing & security scanning · GDPR-compliant PII anonymiza
 PURL-to-SWHID mapping across PyPI, Crates.io and Maven — GSoC 2026 proposal (GFOSS/ELLAK)  
 `Python · Software Supply Chain Security`
 
-**[TEDx Ionian University App](https://github.com/OdysseasKalaitsidis/tedx-app)** - Full Stack
+**[TEDx Ionian University App](https://github.com/OdysseasKalaitsidis/tedx-app)** - Full Stack 
+
 Real-time PWA for a live 300-person event — reactions, polls, QR challenges, live leaderboard.
 Served 60+ concurrent users with zero downtime.
 `.NET 9 · SignalR · React/TypeScript · PostgreSQL · GitHub Actions`
