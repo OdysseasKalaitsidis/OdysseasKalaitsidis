@@ -1,24 +1,35 @@
-Backend & distributed systems focused developer, currently in my 3rd year of Informatics at Ionian University.
+## Odysseas Kalaitsidis
 
-I like building things that run in production, not just demos.
+DevOps & Backend Engineer · 3rd-year CS @ Ionian University GPA 8.9/10
 
-## Tech
-**Languages:** TypeScript · C# (.NET) · Python · Go (learning)  
-**Infrastructure:** Docker · PostgreSQL · REST APIs  
-**Currently studying:** Distributed systems
+Production DevOps ownership of a live system serving 105+ daily active users.
+Full ownership across infrastructure design, deployment pipelines, and incident resolution.
+---
 
-## Projects
+### Stack
 
-### [MyIonio](https://github.com/OdysseasKalaitsidis/Myionio_monorepo)
-Academic course management system for Ionian University — 105+ daily active users.  
-Stack: .NET 8 · React/TypeScript · PostgreSQL
+**Infrastructure & Orchestration:** Kubernetes · Docker · Nginx Ingress · Linux (Ubuntu/Debian)  
+**CI/CD:** Jenkins · GitHub Actions  
+**Cloud:** OCI · Azure  
+**Messaging:** Kafka  
+**Languages:** C# (.NET) · Python · TypeScript · SQL
 
-### [GuestRelationsApp](https://github.com/OdysseasKalaitsidis/GuestRelationsApp)
-Productivity web app for guest relations teams.  
-Stack: Python · React
+---
 
-### [SWHID PoC](https://github.com/OdysseasKalaitsidis/SWHID_POC)
-Proof of concept for PURL-to-SWHID mapping across PyPI, Crates.io and Maven — built for GSoC 2026 (GFOSS/ELLAK).
+### Projects
 
-## Connect
-[LinkedIn](https://linkedin.com/in/kalaitsidisodysseas)
+**[MyIonio](https://github.com/OdysseasKalaitsidis/Myionio_monorepo)** — Lead DevOps Engineer  
+5-service Kubernetes cluster on OCI · Kafka event streaming · Jenkins CI/CD pipeline · 99.2% uptime  
+`.NET 8 · React/TypeScript · Kafka · Kubernetes · Jenkins · Nginx · OCI`
+
+**[GuestRelationsApp](https://github.com/OdysseasKalaitsidis/GuestRelationsApp)** — Full Stack  
+CI/CD with automated testing & security scanning · GDPR-compliant PII anonymization pipeline  
+`Python · FastAPI · React · PostgreSQL · GitHub Actions`
+
+**[SWHID PoC](https://github.com/OdysseasKalaitsidis/SWHID_POC)**  
+PURL-to-SWHID mapping across PyPI, Crates.io and Maven — GSoC 2026 proposal (GFOSS/ELLAK)  
+`Python · Software Supply Chain Security`
+
+---
+
+[LinkedIn](https://linkedin.com/in/kalaitsidisodysseas) · odysseaskalaitsides@gmail.com
