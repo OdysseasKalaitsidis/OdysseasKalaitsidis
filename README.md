@@ -1,6 +1,6 @@
 ## Odysseas Kalaitsidis
 
-DevOps & Backend Engineer · 3rd-year CS @ Ionian University GPA 8.9/10
+4th-year CS @ Ionian University GPA 8.9/10
 
 Production DevOps ownership of a live system serving 105+ daily active users.
 Full ownership across infrastructure design, deployment pipelines, and incident resolution.
