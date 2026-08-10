@@ -2,20 +2,6 @@
 
 4th-year CS @ Ionian University GPA 8.9/10
 
-Production DevOps ownership of a live system serving 105+ daily active users.
-Full ownership across infrastructure design, deployment pipelines, and incident resolution.
----
-
-### Stack
-
-**Infrastructure & Orchestration:** Kubernetes · Docker · Nginx Ingress · Linux (Ubuntu/Debian)  
-**CI/CD:** Jenkins · GitHub Actions  
-**Cloud:** OCI · Azure  
-**Messaging:** Kafka  
-**Languages:** C# (.NET) · Python · TypeScript · SQL
-
----
-
 ### Projects
 
 **[MyIonio](https://github.com/OdysseasKalaitsidis/Myionio_monorepo)** — Lead DevOps Engineer  
