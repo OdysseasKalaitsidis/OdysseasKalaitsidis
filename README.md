@@ -1,15 +1,14 @@
 ## Odysseas Kalaitsidis
 
-4th-year CS @ Ionian University GPA 8.9/10
+4th-year CS @ Ionian University 
 
 ### Projects
 
-**[MyIonio](https://github.com/OdysseasKalaitsidis/Myionio_monorepo)** — Lead DevOps Engineer  
+**[MyIonio](https://github.com/OdysseasKalaitsidis/Myionio_monorepo)** — Full Stack   
 5-service Kubernetes cluster on OCI · Kafka event streaming · Jenkins CI/CD pipeline · 99.2% uptime  
 `.NET 8 · React/TypeScript · Kafka · Kubernetes · Jenkins · Nginx · OCI`
 
-**[GuestRelationsApp](https://github.com/OdysseasKalaitsidis/GuestRelationsApp)** — Full Stack  
-CI/CD with automated testing & security scanning · GDPR-compliant PII anonymization pipeline  
+**[GuestRelationsApp](https://github.com/OdysseasKalaitsidis/GuestRelationsApp)** — 
 `Python · FastAPI · React · PostgreSQL · GitHub Actions`
 
 **[SWHID PoC](https://github.com/OdysseasKalaitsidis/SWHID_POC)**  
